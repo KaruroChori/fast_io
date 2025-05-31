@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This is a fork from right before the [upstream](https://github.com/cppfastio/fast_io) licence was [changed](https://github.com/cppfastio/Anti-Tivo-License-ATL-v1.0).
+> Let's be real, while the intent is understandable, and I mostly agree with the underlying intent, its execution is quite poor.
+
 # fast_io
 
 fast_io is a C++20 input/output library that provides [exceptional speed](readme.md#Benchmarks) and is designed to replace the commonly used `<iostream>` and `<cstdio>` libraries. It is a header-only library and is licensed under the [MIT license](license.txt), making it easy to include in any project. However, it requires a C++20 compiler that supports concepts.
